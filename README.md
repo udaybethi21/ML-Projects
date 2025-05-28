@@ -1,6 +1,6 @@
-* Classifying Netflix titles as *"Movie"* or *"TV Show"* using metadata to enhance content categorization and user experience.
+# * Classifying Netflix titles as *"Movie"* or *"TV Show"* using metadata to enhance content categorization and user experience.
 
-*Project Highlights:*
+## *Project Highlights:*
 
 * Collected and cleaned Netflix dataset for relevant features.
 * Performed data preprocessing and feature engineering to improve model input quality.
