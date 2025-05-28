@@ -1,4 +1,4 @@
-# * Classifying Netflix titles as *"Movie"* or *"TV Show"* using metadata to enhance content categorization and user experience.
+## Classifying Netflix titles as *"Movie"* or *"TV Show"* using metadata to enhance content categorization and user experience.
 
 ## *Project Highlights:*
 
